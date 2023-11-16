@@ -8,13 +8,16 @@
      888   "   888  d8888888888    Y888P    888        888  T88b    888  Y88b  d88P Y88b  d88P 
      888       888 d88P     888     Y8P     8888888888 888   T88b 8888888 "Y8888P"   "Y8888P"  
 
+
+Machine Assisted Visual Extraction, Reconnaissance & Intelligence for Cosmic Captures
+----------------------------------------------------------------------------
+
 ![ApNewsroom_Russia_Ukraine_War_47540](https://github.com/stephansturges/MAVERICC/assets/20320678/27b5ad7f-8fe7-45ec-bfe9-9da195b522ff)
 
 ----------------------------------------------------------------------------
 
-Machine Assisted Visual Extraction, Reconnaissance & Intelligence for Cosmic Captures
 
-Release: V1.0 - Public 
+Release: V1.0 - Public Version
 
 I am assuming you have  some experience with deployment of AI systems, 
 but if you have any trouble using this release you can contact me at 
