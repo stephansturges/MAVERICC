@@ -9,8 +9,7 @@
      888       888 d88P     888     Y8P     8888888888 888   T88b 8888888 "Y8888P"   "Y8888P"  
 
 
-**Machine Assisted Visual Extraction, Reconnaissance & Intelligence for Cosmic Captures
-**
+**Machine Assisted Visual Extraction, Reconnaissance & Intelligence for Cosmic Captures**
 
 ----------------------------------------------------------------------------
 
@@ -19,8 +18,8 @@
 ----------------------------------------------------------------------------
 
 
-**Release: V1.0 - Public Version
-**
+**Release: V1.0 - Public Version**
+
 I am assuming you have  some experience with deployment of AI systems, 
 but if you have any trouble using this release you can contact me at 
 stephan.sturges at gmail
@@ -28,8 +27,8 @@ stephan.sturges at gmail
 ----------------------------------------------------------------------------
 
 
-**WHAT IS MAVERICC?
-**
+**WHAT IS MAVERICC?**
+
 MAVERICC is a detection AI model, based on a large YOLO-v7 backbone and my own
 synthetic data pipeline. The basic model shared here, which is the only 
 one published as FOSS at the moment, is capable of detecting ONLY PLANES in 
@@ -44,8 +43,8 @@ This free model is only trained for "plane" class.
 
 ----------------------------------------------------------------------------
 
-**WHERE IS MAVERICC?
-**
+**WHERE IS MAVERICC?**
+
 Due to the size of the model files and the constraints of github LFS the files
 are no longer stored directly on Github, please download the latest package 
 using the link below:
@@ -53,8 +52,7 @@ using the link below:
 
 
 ----------------------------------------------------------------------------
-**FOR AI NERDS !
-**
+**FOR AI NERDS !**
 
 It's a big set of YOLOv7 model, trained on my own datasets of synthetic and "augmented" / semi-synthetic data.
 I'm not going to release the dataset for the time being.
@@ -64,8 +62,7 @@ This public release comes with a full-sized Yolov7-e6e .pt model file.
 
 
 ----------------------------------------------------------------------------
-**HOW CAN I START WITH MAVERICC?  
-**
+**HOW CAN I START WITH MAVERICC?**
 
 1. Clone the Yolov7 repo into your MAVERICC folder:
 
@@ -94,8 +91,8 @@ the command-line arguments in the detect.py file to see how you want to use it!
 
 ----------------------------------------------------------------------------
 
-**PRO TIP: for large images use a sliding-window inference mecanism, slicing the input images into smaller pieces. 
-**
+**PRO TIP: for large images use a sliding-window inference mecanism, slicing the input images into smaller pieces.**
+
 See below, this is with some smart sliding windo inference:
 ![prediction_visual](https://github.com/stephansturges/MAVERICC/assets/20320678/78d29fed-bf62-4a73-83ca-91faaf39c2fe)
 
@@ -109,19 +106,18 @@ Notice the sliding-window inference catches the small obects much better, despit
 
 ----------------------------------------------------------------------------
 
-**CAN YOU HELP ME WITH X? 
-**
+**CAN YOU HELP ME WITH X?**
+
 Perhaps! email me at stephan.sturges at gmail
 
 ----------------------------------------------------------------------------
 
-**DETECTION OF X ISN'T WORKING AS EXPECTED:
-**
+**DETECTION OF X ISN'T WORKING AS EXPECTED:**
+
 I'd love to see example images, videos, sample data, etc at:
 stephan.sturges@gmail.com
 
-**HOW DOES AIRCORTEX MAKE MONEY?
-**
+**HOW DOES AIRCORTEX MAKE MONEY?**
 
 Aircortex' mission statement is to make the SOTA in ground-risk AI and sensing,
 and to make the basic models free and easy to use for both hobbyists and 
@@ -144,24 +140,24 @@ etc...
 Contact me to find out more.
 
 ----------------------------------------------------------------------------
-**SUPPORT MAVERICC!
-**
+**SUPPORT MAVERICC!**
+
 If you find value in it, please support development of the next version on:
 https://ko-fi.com/stephansturges
 
 ----------------------------------------------------------------------------
 
-**LICENSE
-**
+**LICENSE**
+
 ----------------------------------------------------------------------------
 
 Unless otherwise specified all code in this release is published with the 
 licence conditions below.
+
 ----------------------------------------------------------------------------
 
 
-**MIT License
-**
+**MIT License**
 
 Copyright (c) 2023 Stephan Sturges / Aircortex.com 
 
