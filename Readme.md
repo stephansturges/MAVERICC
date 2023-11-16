@@ -69,6 +69,12 @@ python3 detect.py --weights ../V7-e6e/yolov7-M1-planeOnly-960--e6e-bs20-150it/yo
 In the example above we are running the model with a confidence threshold of 0.1. Check out
 the command-line arguments in the detect.py file to see how you want to use it!
 
+4. Check out some cool outputs in yout ../output_images/ folder!
+   
+![BoeingPlaza_800](https://github.com/stephansturges/MAVERICC/assets/20320678/eb45ef15-dcf8-4bce-96a7-82b03494d39c)
+![original](https://github.com/stephansturges/MAVERICC/assets/20320678/46456e73-9a3e-403b-8f8a-07979e529533)
+![zkzq2ph-021sizeoriginal](https://github.com/stephansturges/MAVERICC/assets/20320678/c683fab3-3bc1-49e4-bdd8-19984c6cb765)
+![1699882947130](https://github.com/stephansturges/MAVERICC/assets/20320678/f1489bcb-00e7-4dd1-a8ec-198c71dc0d6a)
 
 
 ----------------------------------------------------------------------------
