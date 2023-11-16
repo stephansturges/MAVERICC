@@ -103,6 +103,7 @@ Notice the sliding-window inference catches the small obects much better, despit
 
 ![image](https://github.com/stephansturges/MAVERICC/assets/20320678/dcc3ffcf-c548-4b01-a29d-07c3396bada0)
 
+The complete version of MAVERICC comes with code to run sliding window inference like this!
 
 ----------------------------------------------------------------------------
 
