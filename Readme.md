@@ -7,6 +7,7 @@
      |::.|:. |::.|:. |\:.. ./|::.. . |::.|:. |::.|::.. . |::.. . |
      `--- ---`--- ---' `---' `-------`--- ---`---`-------`--------  
 
+![ApNewsroom_Russia_Ukraine_War_47540](https://github.com/stephansturges/MAVERICC/assets/20320678/27b5ad7f-8fe7-45ec-bfe9-9da195b522ff)
 
 ----------------------------------------------------------------------------
 
@@ -75,6 +76,7 @@ the command-line arguments in the detect.py file to see how you want to use it!
 ![original](https://github.com/stephansturges/MAVERICC/assets/20320678/46456e73-9a3e-403b-8f8a-07979e529533)
 ![zkzq2ph-021sizeoriginal](https://github.com/stephansturges/MAVERICC/assets/20320678/c683fab3-3bc1-49e4-bdd8-19984c6cb765)
 ![1699882947130](https://github.com/stephansturges/MAVERICC/assets/20320678/f1489bcb-00e7-4dd1-a8ec-198c71dc0d6a)
+![31268fe1806fd747628c49226e81eac82c99362b](https://github.com/stephansturges/MAVERICC/assets/20320678/4990ab3c-c167-4747-a78a-d4d2912dac5e)
 
 
 ----------------------------------------------------------------------------
