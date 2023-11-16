@@ -81,6 +81,22 @@ the command-line arguments in the detect.py file to see how you want to use it!
 
 ----------------------------------------------------------------------------
 
+PRO TIP: for large images use a sliding-window inference mecanism, slicing the input images into smaller pieces. 
+
+See below, this is with some smart sliding windo inference:
+![prediction_visual](https://github.com/stephansturges/MAVERICC/assets/20320678/78d29fed-bf62-4a73-83ca-91faaf39c2fe)
+
+Now the same image processed "naively" with the network:
+![Heathrow-London](https://github.com/stephansturges/MAVERICC/assets/20320678/93e7dafe-eca8-4d4b-bac1-5b68ce76a0f4)
+
+Notice the sliding-window inference catches the small obects much better, despite this image being super low-rez:
+
+![image](https://github.com/stephansturges/MAVERICC/assets/20320678/dcc3ffcf-c548-4b01-a29d-07c3396bada0)
+
+
+----------------------------------------------------------------------------
+
+
 CAN YOU HELP ME WITH X? 
 
 Sure, email me at stephan.sturges@gmail.com
